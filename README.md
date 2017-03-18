@@ -1,0 +1,2 @@
+# subiendo-algo
+primeros comandos
